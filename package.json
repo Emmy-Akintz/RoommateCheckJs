@@ -1,0 +1,12 @@
+{
+  "name": "roommatecheckjs",
+  "version": "1.0.0",
+  "description": "This is a javascript file I created to check if a user is a member of a room.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
